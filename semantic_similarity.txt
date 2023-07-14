@@ -1,0 +1,12 @@
+Task 1: Answers
+a) findings:
+    I noted the the similarity between cat and monkey is much high than other comparisons I add. Maybe space
+    used the fact that these are animals
+    Interesting note though, I was expecting the similarity of cow to elephant to be a bit higher since they are both 
+    animals and mammals.
+    also tiger and cat similarity is about 0.567, I thought i could be higher since they are both animals and belong to the 
+    same family.
+
+b) When using en_core_web_sm instead of en_core_web_md, the similarity indexes seem to go a bit down, only for 100% similar
+   sentences are the similarity indexes higher. This confirms that the en_core_web_sm is s smaller model and less accurate that 
+   en_core_web_md
