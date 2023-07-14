@@ -11,7 +11,7 @@ To run Semantic similarity follow these steps:
 
 1. Clone the repository:
 
-   [Repo](https://github.com/kudzaizvov/cooking-show-project.git)
+   [Repo](https://github.com/kudzaizvov/nlp-semantic-similarity.git)
 
 2.  Navigate to the project directory:
 3. Install the dependencies:
